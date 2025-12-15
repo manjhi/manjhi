@@ -1,7 +1,8 @@
 ## Hi there, I'm Manjinder Singh
 
 <p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+<img width="20%" src="https://icons8.com/icon/nKPTBtE1Kt27/android-tv"/>
+<img width="20%" src="https://icons8.com/icon/nH6L66328KwU/android-phone"/>
 </p>
 
 
